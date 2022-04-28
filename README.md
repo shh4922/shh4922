@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# 나만의 작은 일기장 📖
 <!--
 **shh4922/shh4922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
