@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=현호의%20작은일기장📖&fontSize=90)
 ### 👨‍💻me
-  공부를 꾸준히 하고싶은 신현호 랄까..
+  잔디를 심어야 하는데 집에서 허브나 키우는 신현호랄까..;
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shh4922)](https://github.com/shh4922/github-readme-stats)
 
