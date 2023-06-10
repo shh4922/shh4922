@@ -3,7 +3,7 @@
 ***
 
 ### 👨‍💻me
-  똥이나 먹어랏
+아니 노션에쓰면되지 md파일 너무불편함~~ 어케하누~ㅋㅋㅋㅋ 플젝이나 올리련다 나는~
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shh4922)](https://github.com/shh4922/github-readme-stats)
