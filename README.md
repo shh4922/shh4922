@@ -3,7 +3,7 @@
 ***
 
 ### 👨‍💻me
-  잔디를 심어야 하는데 집에서 허브나 키우는 신현호랄까..;
+  똥이나 먹어랏
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shh4922)](https://github.com/shh4922/github-readme-stats)
