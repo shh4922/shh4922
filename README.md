@@ -3,8 +3,8 @@
 ***
 
 ### 👨‍💻me
-아니 노션에쓰면되지 md파일 너무불편함~~ 어케하누~ㅋㅋㅋㅋ 플젝이나 올리련다 나는~
-
+안녕하세요. 신현호입니다. 감사합니다.
+[포트폴리오 보러가기] (https://www.notion.so/48b28e16397847b7a76ea31c0afc0651?pvs=4)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shh4922)](https://github.com/shh4922/github-readme-stats)
 
