@@ -11,9 +11,7 @@
 
 
 ### ⚒teck 
-[![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![Android](https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=black)](github.com/Joowon0220/TODO-List)
-[![SQLite](https://img.shields.io/badge/SQLite-gray?style=flat-square&logo=SQLite&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![Swift](https://img.shields.io/badge/Swift-pink?style=flat-square&logo=Swift&logoColor=black)](github.com/Joowon0220/TODO-List)
 
 
