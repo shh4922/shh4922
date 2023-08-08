@@ -15,9 +15,6 @@
 [![Swift](https://img.shields.io/badge/Swift-pink?style=flat-square&logo=Swift&logoColor=black)](github.com/Joowon0220/TODO-List)
 
 
-### 📕study
-    
-
 
 ### ✏️백준 알고리즘
 [![Solved.ac
