@@ -3,8 +3,7 @@
 ***
 
 ### 👨‍💻me
-안녕하세요. 신현호입니다. 감사합니다.
-[포트폴리오 보러가기] (https://www.notion.so/48b28e16397847b7a76ea31c0afc0651?pvs=4)
+안녕하세요. 신현호입니다 먼길돌아 여기까지 와주셔서 정말 감사합니다!!!
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shh4922)](https://github.com/shh4922/github-readme-stats)
 
